@@ -1,8 +1,8 @@
 <h1 align="center">Hola 👋, soy Shu Nashy Arellano :blush:</h1>
-<h3 align="center">Ingeniera en Sistemas Computacionales | Desarrolladora Web Font-end | Diseñadora UX/UI</h3>
+<h3 align="center">Ingeniera en Sistemas Computacionales | Desarrolladora Web Font-end | Diseñadora UX/UI en formación</h3>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" style="width=60%;height=60%;"/>
+  <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" style="width=30%;height=30%;"/>
  </div>
 
 - :computer: Actualmente estoy realizando una certificación de **Diseño UX** y también aprendiendo **Bootstrap**.
